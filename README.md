@@ -76,4 +76,16 @@ It is designed for:
 ---
 
 ## 📁 Repository Structure
+frontend/ - website (dashboard, charts)
+backend/ - data processing and AI logic
+data/ - sample and simulated data
+docs/ - documentation and research notes
+
+
+---
+
+## 📌 Disclaimer
+
+This system does not replace medical professionals.
+It focuses on early awareness and prevention only.
 
